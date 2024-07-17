@@ -115,6 +115,6 @@ export const listData = [
   
   export const userData = {
     id: 1,
-    name: "Rajeep Gadal",
-    img: "https://scontent.fbhr4-1.fna.fbcdn.net/v/t39.30808-6/362891721_295163583072368_5808951350659134478_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=GXGQ4bMOVXoQ7kNvgENNSDx&_nc_ht=scontent.fbhr4-1.fna&oh=00_AfBHw60DH32HLmb_dBObFqscYJZG7oNlVAAk6YMwcZ5SvA&oe=66341F2B",
+    name: "John Doe",
+    images: "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   };
